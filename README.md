@@ -30,11 +30,11 @@ For setting up the backend visit the backend repository mentioned above.
 
 Create a folder and open terminal and install this project by command
 ```bash
-git clone https://github.com/Mr-Atanu-Roy/BlogZilla-Frontend
+git clone https://github.com/Aritra-Mondal-ICS/Blogzilla-Frontend.git
 
 ```
 
-or simply download from https://github.com/Mr-Atanu-Roy/BlogZilla-Frontend
+or simply download from https://github.com/Aritra-Mondal-ICS/BlogZilla-Frontend
 
 
 In the project directory open terminal and download the node modules by using command:
