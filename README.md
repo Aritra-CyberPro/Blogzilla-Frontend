@@ -71,5 +71,5 @@ Now the application is available at: http://localhost:5173/
 
 
 ## Author
-- [@Atanu Roy](https://github.com/Mr-Atanu-Roy)
+- [@Aritra-Mondal-ICS](https://github.com/Aritra-Mondal-ICS)
 
