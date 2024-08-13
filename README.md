@@ -1,7 +1,7 @@
 # BlogZilla/Frontend: Blogging Website
 
 This is the frontend for BlogZilla Website.
-Backend available at: [BlogZilla Backend](https://github.com/Aritra-ISS/Blogzilla-Frontend.git)
+Backend available at: [BlogZilla Backend](https://github.com/Aritra-CyberPro/Blogzilla-Frontend.git)
 
 
 ## Tech Stack
@@ -30,11 +30,10 @@ For setting up the backend visit the backend repository mentioned above.
 
 Create a folder and open terminal and install this project by command
 ```bash
-git clone https://github.com/Aritra-ISS/Blogzilla-Frontend.git
+git clone https://github.com/Aritra-CyberPro/Blogzilla-Frontend.git
 
 ```
 
-or simply download from https://github.com/Aritra-ISS/Blogzilla-Frontend.git
 
 In the project directory open terminal and download the node modules by using command:
 ```bash
@@ -70,5 +69,5 @@ Now the application is available at: http://localhost:5173/
 
 
 ## Author
-- [@Aritra-ISS](https://github.com/Aritra-ISS)
+- [@Aritra](https://github.com/Aritra-CyberPro)
 
